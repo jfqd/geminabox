@@ -11,6 +11,7 @@ test/fixtures/fake_home_path/.local/share/gem/specs
 .idea
 .rvmrc
 .ruby-*
+.rbenv-gemsets
 .bin
 *.gem
 test/fixtures/*.fixture
